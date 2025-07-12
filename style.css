@@ -1,0 +1,31 @@
+/*This is a basic CSS file*/
+body {
+  background-color: #e1e10b; /* Light gray background */
+  font-family: Arial, sans-serif; /* Clean font */
+  margin: 40px; /* Space around the content */
+}
+
+h1 {
+  color: #38b308; /* Dark gray heading */
+  text-align: center; /* Center the heading */
+}
+
+p {
+  color: #555; /* Medium gray text */
+  line-height: 1.5; /* More space between lines */
+}
+
+img {
+  display: block;
+  margin: 20px auto; /* Center image horizontally */
+  border-radius: 8px; /* Rounded corners */
+}
+
+a {
+  color: #007BFF; /* Blue link */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
